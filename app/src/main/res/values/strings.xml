@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SecondDayApplication</string>
+    <string name="title_activity_connect_util">ConnectUtil</string>
+
+    <string name="btn_posts_label">Posts</string>
+    <string name="btn_pics_label">Albums</string>
+    <string name="btn_showComments">Show Comments</string>
+
+    <string name="post_screen_header"></string>
+
+    <string name="USER_ID">id</string>
+    <string name="USER_NAME">name</string>
+    <string name="USER_USERNAME">username</string>
+    <string name="USER_EMAIL">email</string>
+    <string name="USER_PHONE">phone</string>
+    <string name="USER_WEBSITE">website</string>
+    <string name="title_activity_comments">CommentsActivity</string>
+</resources>
